@@ -33,8 +33,8 @@ public class MainServerImpl extends DCMSInterfacePOA {
 	String IPaddress;
 	Object recordsMapAccessorLock = new Object();
 
-	int studentCount = 0;
-	int teacherCount = 0;
+	int studentCount = 10000;
+	int teacherCount = 10000;
 	String recordsCount;
 	String location;
 	int locUDPPort = 0;
@@ -101,7 +101,7 @@ public class MainServerImpl extends DCMSInterfacePOA {
 				req.createTRecord(managerID, teacher);
 			}
 		}
-		String temp[] = teacher.split(",");
+		String temp[] = teacher.split(":");
 		String teacherID = "TR" + (++teacherCount);
 		String firstName = temp[0];
 		String lastname = temp[1];
@@ -149,7 +149,7 @@ public class MainServerImpl extends DCMSInterfacePOA {
 				req.createSRecord(managerID, student);
 			}
 		}
-		String temp[] = student.split(",");
+		String temp[] = student.split(":");
 		String firstName = temp[0];
 		String lastName = temp[1];
 		String CoursesRegistered = temp[2];

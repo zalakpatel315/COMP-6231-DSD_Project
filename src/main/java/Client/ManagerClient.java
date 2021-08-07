@@ -69,7 +69,7 @@ public class ManagerClient {
 					do {
 						System.out.println(
 								"\nChoose any of the options below to access the system\n1 : Create a Teacher Record\n2 : Create a Student Record"
-										+ "\n3 : Edit a Record\n4 : Get Record Count\n5 : Transfer Record\n6 : Transfer Record\nC : To create new user\nSelect : ");
+										+ "\n3 : Edit a Record\n4 : Get Record Count\n5 : Transfer Record\n6 : Test Bully Alogorithm\nC : To create new user\nSelect : ");
 						choice = bufferReader.readLine().trim().toUpperCase();
 						log.clientInfo(userName, LogWriter.ACCESS_SYSTEM, choice);
 						switch (choice) {
@@ -116,7 +116,7 @@ public class ManagerClient {
 							log.clientInfo(userName, LogWriter.ACCESS_SYSTEM, "Invalid Choice");
 							continue;
 						}
-						Pattern pattern = Pattern.compile("^[1-2-3-4]{1}");
+						Pattern pattern = Pattern.compile("^[1-2-3-4-5-6]{1}");
 						matcher = pattern.matcher(choice);
 					} while (matcher != null && matcher.matches() && !choice.equalsIgnoreCase("C"));
 				} else {
