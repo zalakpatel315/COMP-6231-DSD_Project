@@ -1,0 +1,14 @@
+
+2021-07-05T01:30:07.431 <> UserName: LVL0000 <> Phase: choosing system options <> Log: 2
+2021-07-05T01:30:07.450 <> UserName: LVL0000 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-07-05T01:30:14.675 <> UserName: LVL0000 <> Phase: createStudentRecord <> Log: Entered Input: James, Anderson, Java|Python|Scala, 1, 2021-12-22
+2021-07-05T01:30:16.325 <> UserName: LVL0000 <> Phase: createStudentRecord <> Log: Student record SR10000 created in Laval location with name : James Anderson
+2021-07-05T01:30:19.837 <> UserName: LVL0000 <> Phase: choosing system options <> Log: 3
+2021-07-05T01:30:19.861 <> UserName: LVL0000 <> Phase: editRecord <> Log: selected Edit Record
+2021-07-05T01:30:39.751 <> UserName: LVL0000 <> Phase: editRecord <> Log: Entered Input: SR10000, COURSEREGISTERED, JAVA|HTML5|PHP
+2021-07-05T01:30:41.344 <> UserName: LVL0000 <> Phase: editRecord <> Log: Edit operation performed successfully.
+Updated Record: Id:SR10000, FN:James, LN:Anderson, CoursesRegistered:JAVA,HTML5,PHP, Status:Active, StatusDate:2021-12-22
+2021-07-05T01:30:50.457 <> UserName: LVL0000 <> Phase: choosing system options <> Log: 4
+2021-07-05T01:30:50.481 <> UserName: LVL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-05T01:30:50.614 <> UserName: LVL0000 <> Phase: getRecordCount <> Log: MTL : 8, LVL : 7, DDO : 8
+2021-07-05T01:30:55.556 <> UserName: LVL0000 <> Phase: choosing system options <> Log: C

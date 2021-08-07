@@ -22,7 +22,7 @@ public class Constants {
 	public static int MAX_RETRY_ATTEMPT = 10;
 	public static int RETRY_TIME = 5000;
 
-	public static String RECEIVED_DATA_SEPERATOR = ",";
+	public static String RECEIVED_DATA_SEPERATOR = ":";
 	public static String RESPONSE_DATA_SEPERATOR = "_";
 	public static String PROJECT_DIR = System.getProperty("user.dir");
 	public static String LOG_DIR = PROJECT_DIR + "\\src\\main\\resources\\Backup\\Logs\\";

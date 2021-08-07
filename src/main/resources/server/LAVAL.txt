@@ -1,0 +1,14 @@
+
+2021-07-05T01:25:57.568 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-05T01:25:57.594 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-05T01:29:06.581 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-05T01:29:06.600 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-05T01:30:16.270 <> ServerName: LAVAL <> Operator: LVL0000 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : James, Last Name : Anderson, Courses Registered : Java,Python,Scala, Status : Active, Status Date : 2021-12-22)
+2021-07-05T01:30:16.293 <> ServerName: LAVAL <> Operator: LVL0000 <> Phase: Response <> Log: Student record SR10000 created in Laval location with name : James Anderson
+2021-07-05T01:30:41.295 <> ServerName: LAVAL <> Operator: LVL0000 <> Phase: Request <> Log: Edit Record requested for record with ID : SR10000, Edit Field : COURSEREGISTERED, New Value : JAVA,HTML5,PHP
+2021-07-05T01:30:41.316 <> ServerName: LAVAL <> Operator: LVL0000 <> Phase: Response <> Log: Edit operation performed successfully.
+Updated Record: Id:SR10000, FN:James, LN:Anderson, CoursesRegistered:JAVA,HTML5,PHP, Status:Active, StatusDate:2021-12-22
+2021-07-05T01:30:50.511 <> ServerName: LAVAL <> Operator: LVL0000 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-05T01:30:50.590 <> ServerName: LAVAL <> Operator: LVL0000 <> Phase: Response <> Log: MTL : 8, LVL : 7, DDO : 8
+2021-07-05T01:31:56.796 <> ServerName: LAVAL <> Operator: DDO0000 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Josh, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : DDO)
+2021-07-05T01:31:56.820 <> ServerName: LAVAL <> Operator: DDO0000 <> Phase: Response <> Log: Teacher record TR10001 transferred to Laval location with name : Josh Peterson

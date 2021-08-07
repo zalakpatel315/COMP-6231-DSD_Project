@@ -1,0 +1,10 @@
+
+2021-07-05T01:25:57.730 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-05T01:25:57.759 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-05T01:29:06.685 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-05T01:29:06.701 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-05T01:31:10.692 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO0000 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-05T01:31:10.765 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO0000 <> Phase: Response <> Log: MTL : 8, LVL : 7, DDO : 8
+2021-07-05T01:31:40.422 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO0000 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Josh, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : DDO)
+2021-07-05T01:31:40.444 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO0000 <> Phase: Response <> Log: Teacher record TR10001 created in Dollard-des-Ormeaux location with name : Josh Peterson
+2021-07-05T01:31:56.755 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: Response <> Log: TR10001 removed from Dollard-des-Ormeaux

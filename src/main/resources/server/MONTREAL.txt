@@ -1,0 +1,11 @@
+
+2021-07-05T01:25:57.429 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-05T01:25:57.456 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-05T01:29:06.488 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-05T01:29:06.504 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-05T01:29:43.219 <> ServerName: MONTREAL <> Operator: MTL0000 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Kevin, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : MTL)
+2021-07-05T01:29:43.312 <> ServerName: MONTREAL <> Operator: MTL0000 <> Phase: Response <> Log: Teacher record TR10000 created in Montreal location with name : Kevin Peterson
+2021-07-05T01:29:52.457 <> ServerName: MONTREAL <> Operator: MTL0000 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-05T01:29:52.599 <> ServerName: MONTREAL <> Operator: MTL0000 <> Phase: Response <> Log: MTL : 8, LVL : 6, DDO : 8
+2021-07-05T01:32:07.211 <> ServerName: MONTREAL <> Operator: MTL0000 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-05T01:32:07.278 <> ServerName: MONTREAL <> Operator: MTL0000 <> Phase: Response <> Log: MTL : 8, LVL : 8, DDO : 8

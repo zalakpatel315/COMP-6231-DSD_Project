@@ -1,0 +1,95 @@
+
+2021-08-07T14:42:35.465 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T14:42:35.467 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T14:42:39.902 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T14:43:14.958 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T14:43:14.960 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T14:43:19.879 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T14:44:22.455 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T14:44:22.458 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T14:44:27.034 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T14:46:33.355 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T14:46:33.356 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T14:46:38.522 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T14:47:48.464 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T14:47:48.466 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T14:47:53.330 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T14:50:15.931 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T14:50:15.932 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T14:50:20.354 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T14:53:40.530 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T14:53:40.531 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T14:53:45.893 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T14:57:07.064 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T14:57:07.066 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T14:57:13.191 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T15:12:46.478 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T15:12:46.479 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T15:12:50.660 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T15:12:56.622 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record is created and assigned with TR1
+2021-08-07T15:13:07.318 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 2
+2021-08-07T15:13:07.319 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-08-07T15:13:11.342 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Entered Input: James, Anderson, Java|Python|Scala, 1, 2021-12-22
+2021-08-07T15:34:59.472 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T15:34:59.474 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T15:35:04.036 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T15:35:10.090 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record is created and assigned with TR1
+2021-08-07T15:35:15.439 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-08-07T15:35:15.440 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-08-07T15:36:06.389 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T15:36:06.391 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T15:36:11.152 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T15:36:17.134 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record is created and assigned with TR1
+2021-08-07T15:36:22.669 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-08-07T15:36:22.670 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-08-07T15:37:15.362 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T15:37:15.364 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T15:37:20.455 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T15:38:02.867 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T15:38:02.869 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T15:38:06.717 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T15:38:12.813 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record is created and assigned with TR1
+2021-08-07T15:38:16.457 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-08-07T15:38:16.457 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-08-07T15:38:21.467 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: MTL 1 , LVL 0 , DDO 0
+2021-08-07T15:38:33.055 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 5
+2021-08-07T15:38:33.055 <> UserName: MTL1111 <> Phase: transferRecord <> Log: selected transferRecord
+2021-08-07T15:38:45.567 <> UserName: MTL1111 <> Phase: transferRecord <> Log: Entered Input: TR1,LVL
+2021-08-07T15:38:50.585 <> UserName: MTL1111 <> Phase: transferRecord <> Log: Record created in LVLand removed from MTL
+2021-08-07T15:39:19.763 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-08-07T15:39:19.764 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-08-07T15:39:24.782 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: MTL 0 , LVL 1 , DDO 0
+2021-08-07T15:39:34.127 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-08-07T15:39:34.128 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-08-07T15:39:55.856 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR1,PHONE,123-123-1234
+2021-08-07T15:39:55.857 <> UserName: MTL1111 <> Phase: editRecord <> Log: Value is in incorrect
+2021-08-07T15:40:10.843 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-08-07T15:40:10.844 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-08-07T15:40:32.197 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR1,ADDRESS,123
+2021-08-07T15:40:41.673 <> UserName: MTL1111 <> Phase: editRecord <> Log: Record with TR1 not found
+2021-08-07T16:37:04.782 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T16:37:04.783 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T16:37:10.074 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T16:38:39.521 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T16:38:39.523 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T16:38:45.281 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T16:39:13.783 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T16:39:13.784 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T16:39:19.373 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T16:39:25.658 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record is created and assigned with TR1
+2021-08-07T17:05:29.890 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-08-07T17:05:29.892 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-08-07T17:06:58.904 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T17:06:58.906 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T17:07:04.642 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T17:07:07.239 <> UserName: MTL1111 <> Phase: choosing system options <> Log: S
+2021-08-07T17:07:07.240 <> UserName: MTL1111 <> Phase: choosing system options <> Log: Invalid Choice
+2021-08-07T17:07:08.975 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-08-07T17:07:08.976 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-08-07T17:07:14.508 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-08-07T17:07:20.806 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record is created and assigned with TR1001
+2021-08-07T17:07:40.234 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-08-07T17:07:40.235 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-08-07T17:11:07.337 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-08-07T17:11:07.339 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-08-07T17:11:12.371 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: MTL 0 , LVL 0 , DDO 0

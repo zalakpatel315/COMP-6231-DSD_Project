@@ -1,0 +1,12 @@
+
+2021-07-05T01:31:10.639 <> UserName: DDO0000 <> Phase: choosing system options <> Log: 4
+2021-07-05T01:31:10.659 <> UserName: DDO0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-05T01:31:10.792 <> UserName: DDO0000 <> Phase: getRecordCount <> Log: MTL : 8, LVL : 7, DDO : 8
+2021-07-05T01:31:18.876 <> UserName: DDO0000 <> Phase: choosing system options <> Log: 1
+2021-07-05T01:31:18.900 <> UserName: DDO0000 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-07-05T01:31:35.192 <> UserName: DDO0000 <> Phase: createTeacherRecord <> Log: Entered Input: Josh, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, DDO
+2021-07-05T01:31:40.469 <> UserName: DDO0000 <> Phase: createTeacherRecord <> Log: Teacher record TR10001 created in Dollard-des-Ormeaux location with name : Josh Peterson
+2021-07-05T01:31:43.620 <> UserName: DDO0000 <> Phase: choosing system options <> Log: 5
+2021-07-05T01:31:43.644 <> UserName: DDO0000 <> Phase: transferRecord <> Log: selected transferRecord
+2021-07-05T01:31:56.729 <> UserName: DDO0000 <> Phase: transferRecord <> Log: Entered Input: TR10001, LVL
+2021-07-05T01:31:56.850 <> UserName: DDO0000 <> Phase: transferRecord <> Log: Teacher record TR10001 transferred to Laval location with name : Josh Peterson
